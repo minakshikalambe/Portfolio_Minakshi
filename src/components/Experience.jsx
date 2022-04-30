@@ -330,7 +330,7 @@ const Experience = ({ darkMode }) => {
 									<br></br>
 									<div>
 										<a
-											href="https://github.com/minakshikalambe/unit3_Project_Lybrate.com"
+											href="https://librate.netlify.app/"
 											target="_blank"
 											rel="noreferrer noopener"
 										>
@@ -346,7 +346,7 @@ const Experience = ({ darkMode }) => {
 											</Button>
 										</a>
 										<a
-											href="https://librate.netlify.app/"
+											href="https://github.com/minakshikalambe/unit3_Project_Lybrate.com"
 											target="_blank"
 											rel="noreferrer noopener"
 										>
@@ -469,7 +469,7 @@ const Experience = ({ darkMode }) => {
 									<br></br>
 									<div>
 										<a
-											href="https://github.com/minakshikalambe/unit4_Project_Lybrate.com_Backend"
+											href="https://librate.netlify.app/"
 											target="_blank"
 											rel="noreferrer noopener"
 										>
@@ -485,7 +485,7 @@ const Experience = ({ darkMode }) => {
 											</Button>
 										</a>
 										<a
-											href="https://librate.netlify.app/"
+											href="https://github.com/minakshikalambe/unit4_Project_Lybrate.com_Backend"
 											target="_blank"
 											rel="noreferrer noopener"
 										>
