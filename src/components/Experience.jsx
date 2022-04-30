@@ -379,7 +379,7 @@ const Experience = ({ darkMode }) => {
 													<Card.Img variant="top" src="https://camo.githubusercontent.com/83f81b9846462b13f404245e94d1fe8d98983165217316ebcf1557669adc7b67/68747470733a2f2f692e696d6775722e636f6d2f586d4a4b6b58392e706e67" />
 													<Card.Body>
 														<Card.Title align="center">
-														Lybrate.com Back-end
+														Lybrate.com Backend
 														</Card.Title>
 														<Card.Text>
 															<p align="center">
